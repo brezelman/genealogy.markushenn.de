@@ -2,7 +2,7 @@
 Die aktuellen Ergebnisse meiner Familienforschung sind auf [https://henn-kl.myheritage.de/](https://henn-kl.myheritage.de/) zu finden.
 
 # Kontakt
-Fediverse (Mastodon): [@voks@social.tchncs.de](https://social.tchncs.de/@voks){rel="me"}
+Fediverse (Mastodon): [@voks@social.tchncs.de](https://social.tchncs.de/@voks)
 
 # Vortrag "Evidenz-basierte Ahnenforschung"
 Mein Vortrag **Evidenz-basierte Ahnenforschung - mit der Genealogie-Software [Centurial](https://www.centurial.net/)**, gehalten beim Online-Treff des [Vereins für Computergenealogie (CompGen)](https://www.compgen.de/) am 12.11.2020:
